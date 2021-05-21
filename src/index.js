@@ -4,8 +4,8 @@ import './index.css';
 import App from './App';
 import axios from 'axios';
 
-//axios.defaults.baseURL = 'http://localhost:4000';
-axios.defaults.baseURL = 'https://protected-brushlands-08126.herokuapp.com/';
+
+axios.defaults.baseURL = 'https://mern-backend-empleados.herokuapp.com';
 
 ReactDOM.render(
  
