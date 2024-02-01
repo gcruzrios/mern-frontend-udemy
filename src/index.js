@@ -5,7 +5,7 @@ import App from './App';
 import axios from 'axios';
 
 
-axios.defaults.baseURL = 'https://mern-backend-empleados.herokuapp.com';
+axios.defaults.baseURL = 'http://localhost:4000';
 
 ReactDOM.render(
  
